@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Джонни Депп",
+    "birth": "1963-06-09",
+    "films": 261,
+    "liked": 25216,
+    "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_6245.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Скарлетт Йоханссон",
+    "birth": "1984-10-22",
+    "films": 175,
+    "liked": 11962,
+    "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_3903.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Том Круз",
+    "birth": "1962-07-03",
+    "films": 226,
+    "liked": 8223,
+    "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_20302.jpg"
+  }
+]
